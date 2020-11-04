@@ -1,0 +1,25 @@
+commit 1863998c229c9eb5772c4babc0128e9959dc34bd (HEAD -> main)
+Merge: 5a0ec30 4941cb7
+Author: marcuslark <marcus.lark.stahlberg@iths.se>
+Date:   Wed Nov 4 12:33:33 2020 +0100
+
+    Merge branch 'second' into main
+
+commit 4941cb7896fef5962afb8780b4f9c5ad3880b0fa (origin/second, second)
+Author: marcuslark <marcus.lark.stahlberg@iths.se>
+Date:   Wed Nov 4 12:32:33 2020 +0100
+
+    First commit
+
+commit 5a0ec30519634c1a0eceb1cd1d77bea25141b9fd
+Author: marcuslark <marcus.lark.stahlberg@iths.se>
+Date:   Wed Nov 4 12:31:40 2020 +0100
+
+    First commit
+
+commit 7067bcde3256e4d74ebc77e90507fd99263bc5f1 (origin/main)
+Author: marcuslark <marcus.lark.stahlberg@iths.se>
+Date:   Wed Nov 4 12:13:30 2020 +0100
+
+    First commit
+PS C:\Users\marcu\onedrive\dokument\git labb1>      
